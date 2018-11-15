@@ -85,7 +85,7 @@ GEM
     jbuilder (2.7.0)
       activesupport (>= 4.2.0)
       multi_json (>= 1.2)
-    loofah (2.2.2)
+    loofah (2.2.3)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.0)
@@ -192,6 +192,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   duktape
   jbuilder (~> 2.5)
+  loofah (>= 2.2.3)
   puma (~> 3.11)
   rails (~> 5.2.1)
   sass-rails (~> 5.0)
