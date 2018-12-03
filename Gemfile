@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.5'
 gem "loofah", ">= 2.2.3"
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
-
+gem "rack", ">= 2.0.6"
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
